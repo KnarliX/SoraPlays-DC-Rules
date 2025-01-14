@@ -20,17 +20,44 @@ Check out the live demo here: [SoraPlays Discord Rules Page](https://knarlix.git
 
 ## 📂 Project Structure
 SoraPlays-DC-Rules
-├── index.html   # Main HTML file
-├── styles.css   # CSS for page styling
-├── main.js      # JavaScript for interactivity
-├── logo.png     # Placeholder for community logo
-└── README.md    # Documentation file
+├── index.html   #Main HTML file
+├── styles.css   #CSS for page styling
+├── main.js      #JavaScript for interactivity
+├── logo.png     #Placeholder for community logo
+└── README.md    #Documentation file
 ---
 
 ## 🔧 Technologies Used
 - **HTML5**: Structure of the webpage.
 - **CSS3**: Styling, gradients, and animations.
 - **JavaScript**: Interactive features like rule toggles.
+
+---
+
+## 💖 Credits
+
+Developer: [Knarlix](https://knarlix.github.io/Universe/)
+
+Community Owner: [SoraPlays](https://taplink.cc/soraplays)
+
+
+
+---
+
+## 🛡️ License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+
+---
+
+## 📞 Contact
+
+For any inquiries, reach out via:
+
+Discord: [SoraPlays Community](https://discord.gg/gRZrDKhHRd)
+
+GitHub: [Knarlix](https://github.com/Knarlix)
 
 ---
 
