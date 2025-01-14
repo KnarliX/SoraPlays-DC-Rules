@@ -19,8 +19,8 @@ Check out the live demo here: [SoraPlays Discord Rules Page](https://knarlix.git
 ---
 
 ## 📂 Project Structure
-SoraPlays-DC-Rules/
-- ├── index.html   # Main HTML file
+SoraPlays-DC-Rules
+- ┌── index.html   # Main HTML file
 - ├── styles.css   # CSS for page styling
 - ├── main.js      # JavaScript for interactivity
 - ├── logo.png     # Placeholder for community logo
