@@ -46,7 +46,7 @@ Community Owner: [SoraPlays](https://taplink.cc/soraplays)
 
 ## 🛡️ License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License. See the [LICENSE file](https://knarlix.github.io/SoraPlays-DC-Rules/LICENSE) for more information.
 
 
 ---
