@@ -20,3 +20,17 @@ Check out the live demo here: [SoraPlays Discord Rules Page](#)
 ---
 
 ## 📂 Project Structure
+---
+
+## 🔧 Technologies Used
+- **HTML5**: Structure of the webpage.
+- **CSS3**: Styling, gradients, and animations.
+- **JavaScript**: Interactive features like rule toggles.
+
+---
+
+## 🚀 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Knarlix/SoraPlays-DC-Rules.git
