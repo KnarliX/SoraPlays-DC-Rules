@@ -14,7 +14,7 @@ This project is a dedicated **Discord Rules Page** for the SoraPlays Gaming Comm
 ---
 
 ## 🔗 Live Demo
-Check out the live demo here: [SoraPlays Discord Rules Page](#)
+Check out the live demo here: [SoraPlays Discord Rules Page](https://knarlix.github.io/SoraPlays-DC-Rules/)
 
 ---
 
