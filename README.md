@@ -19,11 +19,11 @@ Check out the live demo here: [SoraPlays Discord Rules Page](https://knarlix.git
 ---
 
 ## 📂 Project Structure
-- ┌── index.html   # Main HTML file
-- ├── styles.css   # CSS for page styling
-- ├── main.js      # JavaScript for interactivity
-- ├── logo.png     # Placeholder for community logo
-- └── README.md    # Documentation file
+- ┌── [index.html](https://knarlix.github.io/SoraPlays-DC-Rules/index.html)   # Main HTML file
+- ├── [styles.css](https://knarlix.github.io/SoraPlays-DC-Rules/styles.css)   # CSS for page styling
+- ├── [main.js](https://knarlix.github.io/SoraPlays-DC-Rules/main.js)      # JavaScript for interactivity
+- ├── [logo.png](https://knarlix.github.io/SoraPlays-DC-Rules/logo.png)     # Placeholder for community logo
+- └── [README.md](https://knarlix.github.io/SoraPlays-DC-Rules/README.md)    # Documentation file
 ---
 
 ## 🔧 Technologies Used
